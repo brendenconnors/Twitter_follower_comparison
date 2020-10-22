@@ -6,3 +6,9 @@ This notebook contains code that pulls the follwers and all their information fo
 
 With the rate limit for the Twitter API making you sleep for 15 mins every time the rate limit is exceeded, this code may take a couple hours to finish running for the current accounts used.
 
+Requirements:
+- Tweepy
+- datetime
+- time
+
+
